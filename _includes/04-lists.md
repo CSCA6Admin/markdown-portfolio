@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Automation
+  * PowerShell
+  * CLI
+  * Microsoft Graph
+* Documentation
+  * [Server Docs](https://docs.microsoft.com)
+  * Azure
+  * Microsoft 365
+  * Teams 
