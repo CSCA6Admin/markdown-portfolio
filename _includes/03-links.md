@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub Repo Link](https://github.com/CSCA6Admin/markdown-portfolio)
